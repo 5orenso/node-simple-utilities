@@ -1,7 +1,7 @@
 {
   "name": "node-simple-utilities",
   "description": "A nice boilerplate with unit tests, linting and code coverage.",
-  "version": "1.3.22",
+  "version": "1.3.23",
   "homepage": "https://github.com/5orenso/node-simple-utilities",
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
     "fast-type-check": "^1.3.0",
     "jsonwebtoken": "^8.5.1",
     "lynx": "^0.2.0",
-    "marked": "^0.8.2",
+    "marked": "^3.0.4",
     "mobx": "^5.15.4",
     "strftime": "^0.10.0",
     "swig": "^1.4.2",
